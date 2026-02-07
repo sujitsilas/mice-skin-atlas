@@ -29,3 +29,5 @@ __pycache__/
 
 # node
 /node_modules/
+integration_scvi/output
+integration_scvi/data
